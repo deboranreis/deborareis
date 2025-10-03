@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Débora Reis</title><link>http://www.example.com/</link><description>Recent content on Débora Reis</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Como iniciar a adequação à LGPD em pequenas e médias empresas</title><link>http://www.example.com/blog/como-iniciar-lgpd/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>http://www.example.com/blog/como-iniciar-lgpd/</guid><description>&lt;hr&gt;
+&lt;div class="post-meta" style="font-size: 1.4rem; margin-bottom: 2rem;"&gt;
+ &lt;div class="date"&gt;
+ &lt;span class="posted-on"&gt;
+ &lt;i class="fa-solid fa-calendar" aria-hidden="true"&gt;&lt;/i&gt;
+ &lt;time datetime="2025-09-29"&gt;Setembro 29, 2025&lt;/time&gt;
+ &lt;/span&gt;
+ &lt;span class="reading-time" style="margin-left: 1rem;"&gt;
+ &lt;i class="fa-solid fa-clock" aria-hidden="true"&gt;&lt;/i&gt;
+ 5 minutos de leitura
+ &lt;/span&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;A LGPD (Lei Geral de Proteção de Dados) que está em vigor desde 2020, trouxe mudanças significativas na forma como empresas de todos os tamanhos tratam informações pessoais. Embora muitas pequenas e médias empresas acreditem que a LGPD seja uma obrigação apenas para grandes corporações, a verdade é que toda organização que coleta, armazena ou processa dados pessoais precisa se adequar.&lt;/p&gt;</description></item><item><title>Olá!</title><link>http://www.example.com/sobre/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>http://www.example.com/sobre/</guid><description>&lt;p&gt;Sou Débora Reis, Especialista em Cibersegurança, apaixonada por criar ambientes digitais mais seguros e eficientes. Atuo na interseção entre Governança, Risco e Compliance (GRC) e Operações de Segurança, com experiência prática em:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gestão completa do ciclo de vulnerabilidades&lt;/strong&gt;, incluindo planejamento e execução de projetos de pentest com fornecedores externos, análise de resultados, priorização de correções, acompanhamento dos times responsáveis e coordenação do reteste até a validação final.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Segurança em Cloud (Cloud Security)&lt;/strong&gt;, com foco em Google Cloud, abrangendo a definição de boas práticas, configuração e monitoramento de acessos, controle de permissões, proteção de dados e hardening de infraestrutura.&lt;/p&gt;</description></item><item><title>Artigos</title><link>http://www.example.com/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.example.com/blog/</guid><description>&lt;p&gt;&lt;em&gt;Setembro 29, 2025&lt;/em&gt; | &lt;a href="http://www.example.com/blog/como-iniciar-lgpd" &gt;Como iniciar a adequação à LGPD em pequenas e médias empresas&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Contato</title><link>http://www.example.com/contato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.example.com/contato/</guid><description>&lt;p&gt;Quer conversar sobre consultoria em cibersegurança ou saber mais sobre meus serviços?&lt;br&gt;
+Clique no botão abaixo para enviar um e-mail diretamente para mim!&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:consultoria.deborareis@gmail.com?subject=Contato%20via%20Site" &gt;&lt;strong&gt;Fala comigo!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ou me encontre nas redes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/deboranreis" class="external-link" target="_blank" rel="noopener"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/debora-reis/" class="external-link" target="_blank" rel="noopener"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Serviços de Consultoria</title><link>http://www.example.com/servicos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.example.com/servicos/</guid><description>&lt;p&gt;Ofereço consultoria em cibersegurança para empresas que desejam estruturar, proteger e otimizar seus ambientes digitais. Meu foco é fornecer soluções práticas e estratégicas, combinando governança, cloud security, automação de processos e operações de segurança, de forma personalizada para cada cliente.&lt;/p&gt;
+&lt;h2 id="áreas-de-atuação"&gt;
+ Áreas de Atuação
+ &lt;a class="heading-link" href="#%c3%a1reas-de-atua%c3%a7%c3%a3o"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Segurança em Nuvem (GCP)&lt;/strong&gt;: análise de acessos, configuração de boas práticas e proteção de infraestrutura na nuvem.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Revisão de Políticas e Conformidade&lt;/strong&gt;: adequação a normas como LGPD e ISO 27001, garantindo que processos e controles estejam alinhados às melhores práticas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gestão de Vulnerabilidades&lt;/strong&gt;: identificação, priorização e acompanhamento de correções, incluindo projetos de pentest com fornecedores externos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monitoramento e Automação&lt;/strong&gt;: implementação de dashboards, alertas e fluxos automatizados para aumentar eficiência e confiabilidade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="formato-de-entrega"&gt;
+ Formato de Entrega
+ &lt;a class="heading-link" href="#formato-de-entrega"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Diagnóstico e recomendações&lt;/strong&gt;: avaliação completa do ambiente e entrega de plano de ação.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projetos sob demanda&lt;/strong&gt;: execução de iniciativas específicas, como revisão de políticas ou implementação de ferramentas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mentorias e treinamentos&lt;/strong&gt;: capacitação de equipes para práticas seguras e manutenção de processos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="benefícios-para-o-cliente"&gt;
+ Benefícios para o Cliente
+ &lt;a class="heading-link" href="#benef%c3%adcios-para-o-cliente"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Redução de riscos&lt;/strong&gt;: prevenção de incidentes e segurança reforçada.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ganho de visibilidade&lt;/strong&gt;: monitoramento e controle claro sobre o ambiente de TI e segurança.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Maior confiança&lt;/strong&gt;: suporte para auditorias, certificações e credibilidade com clientes e parceiros.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
