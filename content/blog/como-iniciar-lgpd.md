@@ -9,6 +9,7 @@ description = "Como iniciar a adequação à LGPD em pequenas e médias empresas
 
 ---
 
+
 <div class="post-meta" style="font-size: 1.4rem; margin-bottom: 2rem;">
   <div class="date">
     <span class="posted-on">
@@ -17,7 +18,7 @@ description = "Como iniciar a adequação à LGPD em pequenas e médias empresas
     </span>
     <span class="reading-time" style="margin-left: 1rem;">
       <i class="fa-solid fa-clock" aria-hidden="true"></i>
-      Cinco minutos de leitura
+      5 minutos de leitura
     </span>
   </div>
 </div>
