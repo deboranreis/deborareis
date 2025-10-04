@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Débora Reis</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/deborareis/</link>
     <description>Recent content on Débora Reis</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deborareis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como iniciar a adequação à LGPD em pequenas e médias empresas</title>
-      <link>http://localhost:1313/blog/como-iniciar-lgpd/</link>
+      <link>http://localhost:1313/deborareis/blog/como-iniciar-lgpd/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/como-iniciar-lgpd/</guid>
+      <guid>http://localhost:1313/deborareis/blog/como-iniciar-lgpd/</guid>
       <description>&lt;hr&gt;&#xA;&lt;div class=&#34;post-meta&#34; style=&#34;font-size: 1.4rem; margin-bottom: 2rem;&#34;&gt;&#xA;  &lt;div class=&#34;date&#34;&gt;&#xA;    &lt;span class=&#34;posted-on&#34;&gt;&#xA;      &lt;i class=&#34;fa-solid fa-calendar&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;      &lt;time datetime=&#34;2025-09-29&#34;&gt;Setembro 29, 2025&lt;/time&gt;&#xA;    &lt;/span&gt;&#xA;    &lt;span class=&#34;reading-time&#34; style=&#34;margin-left: 1rem;&#34;&gt;&#xA;      &lt;i class=&#34;fa-solid fa-clock&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;      5 minutos de leitura&#xA;    &lt;/span&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;A LGPD (Lei Geral de Proteção de Dados) que está em vigor desde 2020, trouxe mudanças significativas na forma como empresas de todos os tamanhos tratam informações pessoais. Embora muitas pequenas e médias empresas acreditem que a LGPD seja uma obrigação apenas para grandes corporações, a verdade é que toda organização que coleta, armazena ou processa dados pessoais precisa se adequar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Olá!</title>
-      <link>http://localhost:1313/sobre/</link>
+      <link>http://localhost:1313/deborareis/sobre/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sobre/</guid>
+      <guid>http://localhost:1313/deborareis/sobre/</guid>
       <description>&lt;p&gt;Sou Débora Reis, Especialista em Cibersegurança, apaixonada por criar ambientes digitais mais seguros e eficientes. Atuo na interseção entre Governança, Risco e Compliance (GRC) e Operações de Segurança, com experiência prática em:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gestão completa do ciclo de vulnerabilidades&lt;/strong&gt;, incluindo planejamento e execução de projetos de pentest com fornecedores externos, análise de resultados, priorização de correções, acompanhamento dos times responsáveis e coordenação do reteste até a validação final.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Segurança em Cloud (Cloud Security)&lt;/strong&gt;, com foco em Google Cloud, abrangendo a definição de boas práticas, configuração e monitoramento de acessos, controle de permissões, proteção de dados e hardening de infraestrutura.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artigos</title>
-      <link>http://localhost:1313/blog/</link>
+      <link>http://localhost:1313/deborareis/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Setembro 29, 2025&lt;/em&gt; | &lt;a href=&#34;http://localhost:1313/blog/como-iniciar-lgpd&#34; &gt;Como iniciar a adequação à LGPD em pequenas e médias empresas&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/deborareis/blog/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Setembro 29, 2025&lt;/em&gt; | &lt;a href=&#34;http://localhost:1313/deborareis/blog/como-iniciar-lgpd&#34; &gt;Como iniciar a adequação à LGPD em pequenas e médias empresas&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:1313/contato/</link>
+      <link>http://localhost:1313/deborareis/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contato/</guid>
+      <guid>http://localhost:1313/deborareis/contato/</guid>
       <description>&lt;p&gt;Quer conversar sobre consultoria em cibersegurança ou saber mais sobre meus serviços?&lt;br&gt;&#xA;Clique no botão abaixo para enviar um e-mail diretamente para mim!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:consultoria.deborareis@gmail.com?subject=Contato%20via%20Site&#34; &gt;&lt;strong&gt;Fala comigo!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ou me encontre nas redes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/deboranreis&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/debora-reis/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Serviços de Consultoria</title>
-      <link>http://localhost:1313/servicos/</link>
+      <link>http://localhost:1313/deborareis/servicos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/servicos/</guid>
+      <guid>http://localhost:1313/deborareis/servicos/</guid>
       <description>&lt;p&gt;Ofereço consultoria em cibersegurança para empresas que desejam estruturar, proteger e otimizar seus ambientes digitais. Meu foco é fornecer soluções práticas e estratégicas, combinando governança, cloud security, automação de processos e operações de segurança, de forma personalizada para cada cliente.&lt;/p&gt;&#xA;&lt;h2 id=&#34;áreas-de-atuação&#34;&gt;&#xA;  Áreas de Atuação&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%c3%a1reas-de-atua%c3%a7%c3%a3o&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Segurança em Nuvem (GCP)&lt;/strong&gt;: análise de acessos, configuração de boas práticas e proteção de infraestrutura na nuvem.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Revisão de Políticas e Conformidade&lt;/strong&gt;: adequação a normas como LGPD e ISO 27001, garantindo que processos e controles estejam alinhados às melhores práticas.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gestão de Vulnerabilidades&lt;/strong&gt;: identificação, priorização e acompanhamento de correções, incluindo projetos de pentest com fornecedores externos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monitoramento e Automação&lt;/strong&gt;: implementação de dashboards, alertas e fluxos automatizados para aumentar eficiência e confiabilidade.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;formato-de-entrega&#34;&gt;&#xA;  Formato de Entrega&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#formato-de-entrega&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diagnóstico e recomendações&lt;/strong&gt;: avaliação completa do ambiente e entrega de plano de ação.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Projetos sob demanda&lt;/strong&gt;: execução de iniciativas específicas, como revisão de políticas ou implementação de ferramentas.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mentorias e treinamentos&lt;/strong&gt;: capacitação de equipes para práticas seguras e manutenção de processos.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefícios-para-o-cliente&#34;&gt;&#xA;  Benefícios para o Cliente&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#benef%c3%adcios-para-o-cliente&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Redução de riscos&lt;/strong&gt;: prevenção de incidentes e segurança reforçada.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ganho de visibilidade&lt;/strong&gt;: monitoramento e controle claro sobre o ambiente de TI e segurança.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maior confiança&lt;/strong&gt;: suporte para auditorias, certificações e credibilidade com clientes e parceiros.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

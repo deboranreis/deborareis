@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debora on Débora Reis</title>
-    <link>http://localhost:1313/debora/</link>
+    <link>http://localhost:1313/deborareis/debora/</link>
     <description>Recent content in Debora on Débora Reis</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="http://localhost:1313/debora/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deborareis/debora/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
