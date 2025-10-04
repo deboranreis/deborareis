@@ -4,6 +4,8 @@ theme = "hugo-coder"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 enableEmoji = true
+relativeURLs = true
+canonifyURLs = true
 
 [pagination]
 pagerSize = 6
