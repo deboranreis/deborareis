@@ -74,19 +74,19 @@ description = "Portfólio de Débora Reis"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
 weight = 1
-url = "sobre/"
+url = "/sobre/"
 
 [[languages.pt-br.menu.main]]
 name = "Blog"
 weight = 2
-url = "blog/"
+url = "/blog/"
 
 [[languages.pt-br.menu.main]]
 name = "Serviços"
 weight = 3
-url = "servicos/"
+url = "/servicos/"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
 weight = 5
-url = "contato/"
+url = "/contato/"
