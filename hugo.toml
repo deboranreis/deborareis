@@ -1,4 +1,4 @@
-baseURL = https://deborareis.net.br/
+baseURL = "https://deborareis.net.br/"
 title = "Débora Reis"
 theme = "hugo-coder"
 languageCode = "pt-br"
