@@ -31,7 +31,7 @@ info = ["Especialista em Cibersegurança"]
 avatarURL = "images/debora.png"
 #gravatar = "consultoria.deborareis@gmail.com"
 dateFormat = "Setembro 29, 2025"
-since = 2025
+since = "2025"
 rtl = false
 colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
