@@ -1,4 +1,4 @@
-baseURL = "https://deboranreis.github.io/deborareis/"
+baseURL = https://deborareis.net.br/
 title = "Débora Reis"
 theme = "hugo-coder"
 languageCode = "pt-br"
