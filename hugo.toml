@@ -8,7 +8,7 @@ enableEmoji = true
 #canonifyURLs = true
 
 [pagination]
-pagerSize = 6
+pagerSize = 5
 
 [services]
 [services.disqus]
