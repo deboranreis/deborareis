@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/deborareis/blog/como-iniciar-lgpd/</loc>
+    <loc>//localhost:1313/blog/como-iniciar-lgpd/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deborareis/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deborareis/sobre/</loc>
+    <loc>//localhost:1313/sobre/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deborareis/autores/</loc>
+    <loc>//localhost:1313/autores/</loc>
     <lastmod>1969-12-31T21:33:45-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deborareis/autores/debora/</loc>
+    <loc>//localhost:1313/autores/debora/</loc>
     <lastmod>1969-12-31T21:33:45-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/deborareis/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/deborareis/contato/</loc>
+    <loc>//localhost:1313/contato/</loc>
   </url><url>
-    <loc>http://localhost:1313/deborareis/debora/</loc>
+    <loc>//localhost:1313/debora/</loc>
   </url><url>
-    <loc>http://localhost:1313/deborareis/servicos/</loc>
+    <loc>//localhost:1313/servicos/</loc>
   </url>
 </urlset>
