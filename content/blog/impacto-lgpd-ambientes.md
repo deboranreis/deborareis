@@ -14,11 +14,11 @@ description = "Impacto da LGPD em ambientes multi-cloud e SaaS"
   <div class="date">
     <span class="posted-on">
       <i class="fa-solid fa-calendar" aria-hidden="true"></i>
-      <time datetime="2025-12-15">Dezmebro 15, 2025</time>
+      <time datetime="2025-12-15">Dezembro 15, 2025</time>
     </span>
     <span class="reading-time" style="margin-left: 1rem;">
       <i class="fa-solid fa-clock" aria-hidden="true"></i>
-      5 minutos de leitura
+      4 minutos de leitura
     </span>
   </div>
 </div>
