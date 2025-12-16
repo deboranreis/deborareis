@@ -3,11 +3,11 @@
  &lt;div class="date"&gt;
  &lt;span class="posted-on"&gt;
  &lt;i class="fa-solid fa-calendar" aria-hidden="true"&gt;&lt;/i&gt;
- &lt;time datetime="2025-12-15"&gt;Dezmebro 15, 2025&lt;/time&gt;
+ &lt;time datetime="2025-12-15"&gt;Dezembro 15, 2025&lt;/time&gt;
  &lt;/span&gt;
  &lt;span class="reading-time" style="margin-left: 1rem;"&gt;
  &lt;i class="fa-solid fa-clock" aria-hidden="true"&gt;&lt;/i&gt;
- 5 minutos de leitura
+ 4 minutos de leitura
  &lt;/span&gt;
  &lt;/div&gt;
 &lt;/div&gt;
