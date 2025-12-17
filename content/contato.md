@@ -3,12 +3,8 @@ title = "Contato"
 slug = "contato"
 +++
 
-Quer conversar sobre consultoria em cibersegurança ou saber mais sobre meus serviços?  
-Clique no botão abaixo para enviar um e-mail diretamente para mim!
+Consultoria e conteúdos em **Segurança da Informação**, **LGPD** e **segurança em nuvem**.
 
-[**Fala comigo!**](mailto:consultoria.deborareis@gmail.com?subject=Contato%20via%20Site)
+Se você quer conversar sobre algum desses temas, tirar dúvidas ou entender como posso ajudar no seu contexto, fico à disposição para trocar uma ideia.
 
-Ou me encontre nas redes:
-
-- [GitHub](https://github.com/deboranreis)
-- [LinkedIn](https://www.linkedin.com/in/debora-reis/)
+[Entrar em contato por e-mail](mailto:eu@deborareis.net.br)
