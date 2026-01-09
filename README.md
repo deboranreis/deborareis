@@ -1,38 +1,73 @@
-# 🌐 Consultoria em Cibersegurança — Débora Reis
+# Welcome to your Lovable project
 
-Este repositório contém o código-fonte do meu site profissional de **consultoria em cibersegurança**, desenvolvido com o framework [Hugo](https://gohugo.io/).  
-O objetivo do site é apresentar meus serviços, artigos e formas de contato de maneira clara e acessível, reforçando meu compromisso em ajudar empresas a **proteger e otimizar seus ambientes digitais**.
+## Project info
 
----
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## 🚀 Sobre o Projeto
+## How can I edit this code?
 
-O site foi construído utilizando o gerador de sites estáticos **Hugo**, com customizações no tema para refletir minha identidade profissional.  
-Ele está hospedado online e serve como meu **portfólio e vitrine de serviços**.
+There are several ways of editing your application.
 
-Principais seções do site:
-- **Sobre** — visão geral sobre mim.  
-- **Serviços** — detalhamento das áreas de atuação em segurança da informação.  
-- **Artigos** — publicações sobre LGPD, segurança em nuvem, conformidade e boas práticas.  
-- **Contato** — formas de entrar em contato diretamente comigo.  
+**Use Lovable**
 
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
+Changes made via Lovable will be committed automatically to this repo.
 
-## 🛡️ Áreas de Atuação
+**Use your preferred IDE**
 
-- **Segurança em Nuvem (GCP)** — boas práticas, análise de acessos e proteção de infraestrutura.  
-- **Governança e Conformidade** — adequação à LGPD, ISO 27001 e outras normas.  
-- **Gestão de Vulnerabilidades** — identificação, priorização e acompanhamento de correções.  
-- **Automação e Monitoramento** — dashboards, alertas e fluxos para eficiência em segurança.  
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
+Follow these steps:
 
-## 📦 Tecnologias Utilizadas
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-- [Hugo](https://gohugo.io/) — gerador de sites estáticos.  
-- HTML, CSS, Markdown — personalização do tema.  
-- GitHub — versionamento e hospedagem do código.  
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
----
+# Step 3: Install the necessary dependencies.
+npm i
 
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
