@@ -1,22 +1,43 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
+
+    <!-- GitHub Pages SPA: restaura a rota vinda do 404.html (?p=/rota) -->
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var p = params.get("p");
+        if (p) {
+          window.history.replaceState(null, "", decodeURIComponent(p));
+        }
+      })();
+    </script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- TODO: Set the document title to the name of your application -->
-    <title>Débora Reis</title>
-    <meta name="description" content="Site de Débora Reis" />
-    <meta name="author" content="Débora" />
 
-    <!-- TODO: Update og:title to match your application name -->
-    <meta property="og:title" content="Débora" />
-    <meta property="og:description" content="Lovable Generated Project" />
+    <title>Débora Reis | Consultoria em Cibersegurança</title>
+    <meta
+      name="description"
+      content="Consultoria em cibersegurança com foco em cloud (GCP), LGPD, ISO 27001 e boas práticas para proteger e evoluir a segurança do seu negócio."
+    />
+    <meta name="author" content="Débora Reis" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Débora Reis | Consultoria em Cibersegurança" />
+    <meta
+      property="og:description"
+      content="Cloud Security (GCP), LGPD, ISO 27001 e segurança prática para empresas."
+    />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    <!-- Dica: depois troque para uma imagem sua em /og-image.png -->
+    <meta property="og:image" content="/og-image.png" />
 
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@Lovable" />
-    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    <!-- Se você tiver @ no Twitter/X, coloque aqui. Se não tiver, pode remover esta linha -->
+    <!-- <meta name="twitter:site" content="@seuuser" /> -->
+    <meta name="twitter:image" content="/og-image.png" />
     <script type="module" crossorigin src="/assets/index-fdtJG9uJ.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-D5NANNcD.css">
   </head>
