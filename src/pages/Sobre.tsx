@@ -27,12 +27,13 @@ const Sobre = () => {
           {/* Image Side */}
           <div className="relative animate-fade-in">
             <div className="aspect-[4/5] rounded-2xl bg-gradient-to-br from-primary/20 to-accent/30 p-1">
-              <div className="w-full h-full rounded-2xl bg-secondary flex items-center justify-center">
+              <div className="w-full h-full rounded-2xl bg-secondary flex items-center justify-center overflow-hidden">
                 <img
-                src="/Profile.jpg"
-                alt="Foto de Débora Reis"
-                style={{ objectPosition: "center 100%" }}
-              />
+                  src="/Profile.jpg"
+                  alt="Foto de Débora Reis"
+                  className="w-full h-full object-cover"
+                  style={{ objectPosition: "center 100%" }}
+                />
               </div>
             </div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-primary/10 rounded-full blur-3xl" />
