@@ -10,7 +10,7 @@ const services = [
     title: "Segurança em Nuvem",
     subtitle: "GCP",
     description:
-      "Avaliação e implementação de controles de segurança para ambientes Google Cloud Platform. IAM, VPC, monitoramento e compliance.",
+      "Avaliação e implementação de controles de segurança para ambientes Google Cloud Platform. IAM, monitoramento e compliance.",
   },
   {
     icon: FileCheck,
