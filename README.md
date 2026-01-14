@@ -1,73 +1,122 @@
-# Welcome to your Lovable project
+# Site Profissional – Débora Reis | Consultoria em Cibersegurança
 
-## Project info
+Este repositório contém o código-fonte do meu **site profissional de consultoria em cibersegurança**, criado para centralizar conteúdos técnicos, artigos, serviços e um canal de contato para consultorias.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+O site evoluiu de um espaço pessoal de anotações e estudos para uma plataforma estruturada de **compartilhamento de conhecimento** e **apresentação profissional**, com foco em segurança da informação, LGPD, cloud security e boas práticas de mercado.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Objetivo do projeto
 
-**Use Lovable**
+* Registrar e organizar meus conhecimentos técnicos
+* Compartilhar conteúdos educativos sobre cibersegurança
+* Divulgar serviços de consultoria de forma clara e profissional
+* Disponibilizar um canal simples de contato
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+O projeto **não utiliza backend nem banco de dados**. Todo o conteúdo é gerenciado de forma **estática e manual**, o que reduz complexidade e custos de manutenção.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧩 Estrutura do site
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+O site é composto pelas seguintes seções:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **Home** – Apresentação pessoal, links para redes profissionais
+* **Sobre** – Resumo da minha trajetória e abordagem profissional
+* **Blog** – Lista de artigos técnicos escritos em Markdown/TypeScript
+* **Post individual** – Renderização dinâmica dos artigos
+* **Serviços** – Cards com áreas de atuação em consultoria
+* **Contato** – Chamada para conversa e links de contato
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tecnologias utilizadas
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+* **React + TypeScript**
+* **Vite** (build e desenvolvimento)
+* **React Router DOM** (roteamento)
+* **Tailwind CSS** (estilização)
+* **Lucide Icons** (ícones)
+* **React Markdown** (renderização de conteúdo)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 📂 Organização do projeto
+
+```bash
+src/
+├── components/        # Componentes reutilizáveis
+├── pages/             # Páginas principais do site
+├── data/              # Conteúdo estático (posts, serviços, etc.)
+├── assets/            # Imagens e arquivos estáticos
+├── styles/            # Estilos globais
+└── main.tsx           # Ponto de entrada da aplicação
+```
+
+Os posts do blog ficam centralizados em arquivos `.ts`, permitindo controle total do conteúdo sem necessidade de CMS.
+
+---
+
+## ▶️ Como rodar o projeto localmente
+
+### Pré-requisitos
+
+* **Node.js** (versão 18 ou superior)
+* **npm** ou **yarn**
+
+### Passo a passo
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd seu-repositorio
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Inicie o servidor de desenvolvimento:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+5. Acesse no navegador:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## ✍️ Conteúdo e manutenção
 
-## What technologies are used for this project?
+* Os textos do blog são adicionados manualmente
+* Não há painel administrativo
+* O versionamento garante histórico e controle total do conteúdo
 
-This project is built with:
+Esse modelo foi escolhido propositalmente para manter **simplicidade, segurança e baixo custo**.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📬 Contato
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Se quiser conversar sobre cibersegurança, LGPD, cloud ou consultoria:
 
-## Can I connect a custom domain to my Lovable project?
+* 🌐 Site: [https://deborareis.net.br](https://deborareis.net.br)
+* 💼 LinkedIn: [https://www.linkedin.com/in/deborareis](https://www.linkedin.com/in/deborareis)
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 📄 Licença
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Este projeto é de uso pessoal/profissional. O conteúdo não deve ser reproduzido sem autorização.
